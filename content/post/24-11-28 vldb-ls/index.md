@@ -15,6 +15,7 @@ profile: false
 作者：刘爽，田承霖，孙军，王瑞丰，卢卫，赵涌鑫，薛吟兴，王俊杰，杜小勇
 
 ![SemConT整体结构](./SemConT.png)
+
 **图 1：SemConT整体结构**
 
 
