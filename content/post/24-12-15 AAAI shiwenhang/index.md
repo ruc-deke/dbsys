@@ -1,5 +1,5 @@
 ---
-title: 数据库系统实验室论文成功入选 IEEE INFOCOM 2025！
+title: 数据库系统实验室论文被AAAI 2025接收！
 date: 2024-12-15
 image:
   focal_point: 'top'
